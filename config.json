@@ -1,0 +1,31 @@
+{
+    "token": "",
+    "prefix": "!",
+    "voiceChannelID": "1117210159123546222",
+
+
+    "presence": {
+        "name": "Created By Wiax",
+        "type": "LISTENING"
+    },
+
+    "rol": {
+        "booster": "1107434327521894471"
+    },
+
+    "kayıt": {
+        "kayıtsızID": "1116263782516273152",
+        "erkekID": "1116263781287346216",
+        "kızID": "1116263780129701911",
+        "kayıtYetkiliID": "1116263773284610068",
+
+        "kayıtchatID": "1117136985274974270",
+
+        "tag": "xll",
+        "kayıtsızNick": ""
+    },
+
+    "emoji": {
+        "amblem": "SUNUCU AMBLEMİ EMOJİSİ ( örnek: <:star:924626488093999144> )"
+    }
+}
